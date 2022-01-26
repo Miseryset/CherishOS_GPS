@@ -1,0 +1,7 @@
+id=GPS
+name=GPS
+version=3.3
+versionCode=1
+author=Miseryset
+description= gps.conf 修改
+updateJson=https://github.com/Miseryset/CherishOS_GPS/blob/update/update.json
