@@ -1,6 +1,6 @@
 {
-    "version": "3.3",
-    "versionCode": 1,
-    "zipUrl": "https://github.com/Miseryset/CherishOS_GPS/releases/download/v3.3/GPS.zip",
-    "changelog": "null"
+    "version": "V3.3",
+    "versionCode": 2,
+    "zipUrl": "https://github.com/Miseryset/CherishOS_GPS/releases/download/V3.3/CherishOS_GPS.zip",
+    "changelog": "## use new template"
 }
